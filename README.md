@@ -6,7 +6,7 @@ Welcome to the official GitHub organization hub for Deepsim Intelligence Technol
 
 Our core open-source tools, scientific tutorials, and software packages are actively developed and maintained by our founder and Chief Scientist. 
 
-* 💻 **Active Code & Research Repositories:** Visit [://github.com//shoukewei](https://://github.com//shoukewei) to access our full portfolio of data science, computer vision, and machine learning repositories.
+* 💻 **Active Code & Research Repositories:** Visit [://github.com/shoukewei](https://github.com//shoukewei) to access our full portfolio of data science, computer vision, and machine learning repositories.
 * 🏢 **Organization Hub:** This `DeepSim-AI` space serves as the central administrative hub for production-ready releases, organization deployment, and enterprise tools as we scale.
 
 ## 🚀 Core R&D Focus
